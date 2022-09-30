@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
-![](https://github.com/jmalauss/Cryptocurrencies/blob/main/3dScatter.png)
+![3D Scatter Plot](https://github.com/jmalauss/Cryptocurrencies/blob/main/3dScatter.png)
 
-https://github.com/jmalauss/Cryptocurrencies/blob/main/elbow_curve.png
+![Elbow Curve](https://github.com/jmalauss/Cryptocurrencies/blob/main/elbow_curve.png)
 
-https://github.com/jmalauss/Cryptocurrencies/blob/main/hvScatter.png
+![Scatter Plot](https://github.com/jmalauss/Cryptocurrencies/blob/main/hvScatter.png)
