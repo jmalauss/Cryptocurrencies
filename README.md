@@ -13,4 +13,5 @@ The purpose of this analysis was to classify cryptocurencies. There is no explic
 ![Scatter Plot](https://github.com/jmalauss/Cryptocurrencies/blob/main/hvScatter.png)
 
 ## hvplot Table
+*Note: The column headers are a little hard to read but they read: (CoinName, Algorithm, ProofType, TotalCoinSupply, TotalCoinsMined, Class)*
 ![hvplot table](https://github.com/jmalauss/Cryptocurrencies/blob/main/hvplot_table.png)
